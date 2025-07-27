@@ -36,7 +36,7 @@ def changing_pfp():
     confirm_pfp = driver.find_element(By.XPATH,'//*[@id="app"]/div/span[2]/div/div/div/div/div/div/div/div/div[2]/span/div/div')
     confirm_pfp.click()
 
-# Ana döngü
+# Main loop
 while True:
     changing_pfp()
     time.sleep(86400)
