@@ -1,7 +1,3 @@
-Ah, bu proje... Bize geldiğinde masada sadece bir fikir kırıntısıydı. Dedik ki, "İnsanların dijital kimlikleri statik kalmamalı, tıpkı hayatın kendisi gibi dinamik olmalı." İşte bu felsefeyle, sıradan bir görevi otomatize etmekten çok daha fazlasını yaptık; dijital varoluşunuza ritim ve renk katacak bir sanat eseri yarattık. 🤖✨
-
-Bu sadece bir Python script'i değil, dostum. Bu, **zaman ve kimlik yönetimi** üzerine bir manifestodur. Tek bir satır kod yazmadan, her gün yeni bir "sen" sunabilme gücünü parmaklarının ucuna getiriyoruz. Verimlilik bu değil de nedir?
-
 -----
 
 ### 🚀 Projenin Ruhu: WhatsApp Profil Fotoğrafı Otomasyonu
