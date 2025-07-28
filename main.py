@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-service = Service("C:\\chromedriver-win64\\chromedriver.exe")
+service = Service("..\\whatsapp-automation\\chromedriver-win64\\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 
 # Open WhatsApp web
@@ -24,7 +24,7 @@ profile_section.click()
 def changing_pfp():
     pfp = random.randint(1, 48)
     profile_photo = driver.find_element(By.XPATH,'//*[@id="app"]/div/div[3]/div/div[2]/div[1]/span/div/div/span/div/div/div[1]/div/input')
-    profile_photo.send_keys(f"C:\\Users\\omeer\\Desktop\\freepalestinebaby\\images\\{pfp}.jpg")
+    profile_photo.send_keys(f"..\\whatsapp-automation\\images\\{pfp}.jpg")
 
     time.sleep(1)
 
