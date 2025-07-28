@@ -3,4 +3,4 @@
 <h2>Automatic whatsapp profile picture changing bot!</h2>
 <h4> * Dont forget that update your default Google Chrome version. "Settings -> About Chrome" </h4>
 <h4> * Dont forget that install selenium on pip. [ open cmd and write "pip install selenium" ]</h4>
-<h4> * Dont forget that editing chromedriver.exe and images folder path on the main.py project!</h4>
+<h4> * Dont forget that editing chromedriver.exe and images folder path on the main.py project that where on your pc you extract!</h4>
