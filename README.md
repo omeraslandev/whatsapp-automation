@@ -1,5 +1,3 @@
------
-
 ### 🚀 Projenin Ruhu: WhatsApp Profil Fotoğrafı Otomasyonu
 
 Sosyal medyada sürekli aynı yüzle var olmaktan sıkıldın mı? Her gün yeni bir mod, yeni bir enerji, yeni bir "sen" var. Peki dijital yansıman neden buna ayak uydurmasın?
