@@ -1,7 +1,3 @@
-Tabii ki bro, hazırladım\! Bu rehberle projeyi roket gibi ateşleyeceksin. 🚀
-
------
-
 ### 😎 WhatsApp PFP Otomasyonu: Çalıştırma Macerası\! 😎
 
 Selam Kaptan\! Dijital kimliğini her gün tazeleyecek bu efsane otomasyonu çalıştırmaya hazır mısın? O zaman kemerleri bağla, çünkü adım adım zafere ulaşıyoruz\!
